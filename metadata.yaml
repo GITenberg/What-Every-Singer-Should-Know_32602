@@ -1,0 +1,32 @@
+_repo: What-Every-Singer-Should-Know_32602
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryan, Millie
+    gutenberg_agent_id: '35936'
+    url: http://www.gutenberg.org/2009/agents/35936
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voice culture'
+- !lcc 'MT'
+- !lcsh 'Singing -- Instruction and study'
+tableOfContents: '"Is it worth my while to have my voice cultivated" -- "Can I become
+  a grand opera singer?" -- "At what age shall I take up the study of voice culture?"
+  -- Singing lessons as a health culture -- Advice to parents -- "Is it necessary
+  to go abroad to study?" -- Chorus singing -- Stage fright -- The accompanist --
+  Selecting a teacher -- Art for art''s sake -- Educating the masses -- Hints and
+  helps -- What and how to practice -- The breath -- A few practical exercises and
+  illustrations.'
+title: What Every Singer Should Know
+url: http://www.gutenberg.org/ebooks/32602
